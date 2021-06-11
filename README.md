@@ -26,9 +26,11 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ![template_1](./src/assets/template_1.png)
 ![template_2](./src/assets/template_2.png)
 
+
+---
 ### :woman_technologist: Sobre a autora
 #### Geovanna Domingos
 
 ![Imagem perfil de Geovanna Domingos](./src/assets/foto_perfil.jpg)
-- ![Github](https://github.com/geovannaadomingos)
+- Github: https://github.com/geovannaadomingos
 - E-mail: gmdomingosn@gmail.com
