@@ -23,17 +23,12 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ### :chart: Resultado
 ---
 
-<h2>
-    <img alt="template_1" src="../src/assets/template_1.png" />
-</h2>
-<h2>
-    <img alt="template_2" src="../src/assets/template_2.png" />
-</h2>
-
+![template_1](./src/assets/template_1.png)
+![template_2](./src/assets/template_2.png)
 
 ### :woman_technologist: Sobre a autora
 #### Geovanna Domingos
 
-<img style="border-radius: 50%;" src="../src/assets/foto_perfil.jpg" width="100px;" alt="Imagem perfil de Geovanna Domingos"/>
-<ul><li><a href="https://github.com/geovannaadomingos" target="_blanck">Github</a></li>
-<li>E-mail: gmdomingosn@gmail.com<li></ul>
+![Imagem perfil de Geovanna Domingos](./src/assets/foto_perfil.jpg)
+- ![Github](https://github.com/geovannaadomingos)
+- E-mail: gmdomingosn@gmail.com
