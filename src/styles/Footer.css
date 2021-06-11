@@ -1,0 +1,18 @@
+.footer{
+    height: 85px;
+    background-color: #47322d;
+    text-align: center;
+    margin-bottom: 0;
+}
+.p_footer{
+    padding-top: 35px;
+    color: white;
+}
+.a_footer{
+    text-decoration: none;
+    color: #E0B583;
+    font-style: italic;
+}
+.a_footer:hover{
+    font-size: 18px;
+}

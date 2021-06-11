@@ -1,0 +1,18 @@
+.div_header{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height: 550px;
+    font-size: 30px;
+    padding-left: 90px;
+    background-image: url("https://image.freepik.com/fotos-gratis/pilha-de-velhos-livros-sobre-fundo-preto-tom-vintage_68495-90.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    color: white;
+}
+.titulo_header{
+    text-transform: uppercase;
+    width: 80%;
+}
